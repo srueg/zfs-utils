@@ -1,3 +1,3 @@
-FROM docker.io/library/alpine:3.13@sha256:99e6797ac434a1d75a04e99bd722fe993400315e5c70e60f76fe0ed6850fa970
+FROM docker.io/library/alpine:3.13@sha256:ec14c7992a97fc11425907e908340c6c3d6ff602f5f13d899e6b7027c9b4133a
 
 RUN apk add --no-cache zfs
